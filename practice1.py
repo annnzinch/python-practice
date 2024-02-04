@@ -1,0 +1,1 @@
+print("Anna Zinchenko, CS-3")
